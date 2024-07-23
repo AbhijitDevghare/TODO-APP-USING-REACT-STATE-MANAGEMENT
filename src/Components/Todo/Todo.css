@@ -1,0 +1,39 @@
+.Todo-ele{
+    height: 40px;
+    width: 35   0px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+    
+
+}
+
+.Todo-ele button
+{
+    
+    height: 20px;
+    width: 50px;
+    /* box-sizing: unset; */
+    padding: 5px;
+    font-size: 14px;
+}
+
+.Todo-ele input{
+    height: 20px;
+    width: 20px;
+}
+
+.Todo-ele p
+{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.Todo-ele input[type="text"]
+{
+    width: 300px;
+}
+
+
